@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuite name="jqassistant.Group_default" tests="3" failures="0" errors="0" time="3.0">
+    <testcase name="Concept_containment_Package" time="0.0" classname="jqassistant.Group_default"/>
+    <testcase name="Concept_dependencies_Package" time="0.0" classname="jqassistant.Group_default"/>
+    <testcase name="Concept_dependencies_Type" time="2.0" classname="jqassistant.Group_default"/>
+</testsuite>
